@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Image Resizer</string>
+
+    <string name="lbl_resize_by_percentage">Resize by Percentage</string>
+    <string name="lbl_percentage">make image 50% smaller</string>
+    <string name="lbl_percentage_part_1">make image\u0020</string>
+    <string name="lbl_percentage_part_2">% smaller</string>
+    <string name="lbl_resize_by_custom_dimensions">Resize by Custom Dimensions</string>
+
+    <string name="txt_width">Width</string>
+    <string name="txt_height">Height</string>
+    <string name="txt_px" translatable="false">px</string>
+
+    <string name="btn_resize_image">Resize Image</string>
+    <string name="btn_save">Save</string>
+
+    <string name="permissions_granted">Permissions granted</string>
+    <string name="permissions_denied">Permissions denied</string>
+
+    <string name="image_mime_type" translatable="false">.jpeg</string>
+    <string name="image_directory" translatable="false">/Pictures/ImageResizer/</string>
+
+    <string name="msg_image_resized">Image resized</string>
+    <string name="msg_saved">Saved</string>
+    <string name="msg_image_couldnt_saved">Image couldn\'t saved</string>
+    <string name="msg_you_must_select_an_image">You must select an image</string>
+    <string name="msg_dimensions_invalid">Dimensions are invalid</string>
+</resources>

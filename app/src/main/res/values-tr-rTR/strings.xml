@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resim Boyutlandır</string>
+
+    <string name="lbl_resize_by_percentage">Orana Göre Boyutlandır</string>
+    <string name="lbl_percentage">resmi %50 küçült</string>
+    <string name="lbl_percentage_part_1">resmi %</string>
+    <string name="lbl_percentage_part_2">\u0020küçült</string>
+    <string name="lbl_resize_by_custom_dimensions">Sabit Değerlerle Boyutlandır</string>
+
+    <string name="txt_width">Genişlik</string>
+    <string name="txt_height">Yükseklik</string>
+
+    <string name="btn_resize_image">Yeniden Boyutlandır</string>
+    <string name="btn_save">Kaydet</string>
+
+    <string name="permissions_granted">İzin onaylandı</string>
+    <string name="permissions_denied">İzin reddedildi</string>
+
+    <string name="msg_image_resized">Resim yeniden boyutlandırıldı</string>
+    <string name="msg_saved">Kaydedildi</string>
+    <string name="msg_image_couldnt_saved">Resim kaydedilemedi</string>
+    <string name="msg_you_must_select_an_image">Önce resim seçin</string>
+    <string name="msg_dimensions_invalid">Genişlik ve yükseklik değerleri geçersiz</string>
+</resources>
