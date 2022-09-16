@@ -10,4 +10,4 @@ Android image resizer app with data binding
 - Turkish
 
 ## Screenshots
-![screenshot](https://img001.prntscr.com/file/img001/Adzg7X5tRZKLk6oy6GN_-w.jpg)
+![screenshot](https://img001.prntscr.com/file/img001/XcuXIr6jTS6_eJaTfvpoWA.jpg)

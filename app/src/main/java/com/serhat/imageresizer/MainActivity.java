@@ -117,9 +117,9 @@ public class MainActivity extends AppCompatActivity {
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         if (requestCode == 100) {
             if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                Toast.makeText(context, getString(R.string.permissions_granted), Toast.LENGTH_SHORT).show();
+                Toast.makeText(context, getString(R.string.permission_granted), Toast.LENGTH_SHORT).show();
             } else {
-                Toast.makeText(context, getString(R.string.permissions_denied), Toast.LENGTH_SHORT).show();
+                Toast.makeText(context, getString(R.string.permission_denied), Toast.LENGTH_SHORT).show();
             }
         }
 

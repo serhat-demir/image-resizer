@@ -14,8 +14,8 @@
     <string name="btn_resize_image">Resize Image</string>
     <string name="btn_save">Save</string>
 
-    <string name="permissions_granted">Permissions granted</string>
-    <string name="permissions_denied">Permissions denied</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="permission_denied">Permission denied</string>
 
     <string name="image_mime_type" translatable="false">.jpeg</string>
     <string name="image_directory" translatable="false">/Pictures/ImageResizer/</string>

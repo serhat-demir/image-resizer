@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Resim Boyutlandır</string>
+    <string name="app_name">Resim Boyutlandırıcı</string>
 
     <string name="lbl_resize_by_percentage">Orana Göre Boyutlandır</string>
     <string name="lbl_percentage">resmi %50 küçült</string>
@@ -14,8 +14,8 @@
     <string name="btn_resize_image">Yeniden Boyutlandır</string>
     <string name="btn_save">Kaydet</string>
 
-    <string name="permissions_granted">İzin onaylandı</string>
-    <string name="permissions_denied">İzin reddedildi</string>
+    <string name="permission_granted">İzin verildi</string>
+    <string name="permission_denied">İzin verilmedi</string>
 
     <string name="msg_image_resized">Resim yeniden boyutlandırıldı</string>
     <string name="msg_saved">Kaydedildi</string>
